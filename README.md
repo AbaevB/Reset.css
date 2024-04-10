@@ -5,4 +5,4 @@
 
 CSS файл, сбрасывающий все браузерные стили. Подключается самым первым.
 
-Первоисточник [Myerweb.com "Исходник"](https://meyerweb.com/eric/tools/css/reset/)
+Первоисточник [Myerweb.com](https://meyerweb.com/eric/tools/css/reset/  "Исходник")
